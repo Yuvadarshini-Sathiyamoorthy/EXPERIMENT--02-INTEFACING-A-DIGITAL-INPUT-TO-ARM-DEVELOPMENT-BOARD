@@ -123,8 +123,6 @@ void SystemClock_Config(void)
     Error_Handler();
   }
 }
-```
-```
 
 static void MX_GPIO_Init(void)
 {
@@ -168,14 +166,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 ### LED OFF
-![op1](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/168e9fde-6b16-40cf-931f-391f65a86231)
+![op1](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/c43e6c58-2ba7-4f51-bf58-6bb96ab8f7cd)
+
 
 
 
 
 
 ### LED ON
-![op2](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/1f7ed73f-bee6-4d1b-87a8-7b3c8febf0fc)
+![op2](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/2d6fa965-9b17-4a81-a16a-371cbb78a749)
 
 
 
