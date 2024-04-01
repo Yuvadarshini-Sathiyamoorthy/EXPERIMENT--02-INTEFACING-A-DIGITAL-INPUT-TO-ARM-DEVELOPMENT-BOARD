@@ -1,3 +1,7 @@
+```
+Name: Yuvadarshini S
+Register no: 212221230126
+```
 # EXPERIMENT 02: INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
  
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
@@ -60,10 +64,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
-```
-Name: Yuvadarshini S
-Register no: 212221230126
-```
 ```
 #include "main.h"
 #include "stdbool.h"
@@ -166,21 +166,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 ### LED OFF
-![op1](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/c43e6c58-2ba7-4f51-bf58-6bb96ab8f7cd)
-
-
-
+![Image_Editor](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/a0001b16-34bd-4dd4-a55a-1a37010a8d47)<br>
 
 
 
 ### LED ON
-![op2](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/2d6fa965-9b17-4a81-a16a-371cbb78a749)
+![Image_Editor (1)](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/939c1ed2-259f-445c-ace2-0415c10acea8)<br>
 
-
-
-
- 
- 
  
 ## Result :
 Interfacing a digital Input (Pushbutton) with ARM microcontroller is executed and the results are verified.
