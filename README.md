@@ -166,12 +166,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 ### LED OFF
-![Image_Editor](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/a0001b16-34bd-4dd4-a55a-1a37010a8d47)<br>
+![result](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/48f63526-fe7c-4818-be52-13d005db55e6)
+<br>
 
 
 
 ### LED ON
-![Image_Editor (1)](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/939c1ed2-259f-445c-ace2-0415c10acea8)<br>
+![result (1)](https://github.com/Yuvadarshini-Sathiyamoorthy/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/93482485/22524ed2-0d94-48ba-9b51-c2ff9c31d01b)
+<br>
 
  
 ## Result :
